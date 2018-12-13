@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alsawaf/CLionProjects/finalLinkedList/LinkedList.h
+
+C:/Users/Alsawaf/CLionProjects/finalLinkedList/Node.h
+
+C:/Users/Alsawaf/CLionProjects/finalLinkedList/main.cpp
+iostream
+-
+Node.h
+C:/Users/Alsawaf/CLionProjects/finalLinkedList/Node.h
+LinkedList.h
+C:/Users/Alsawaf/CLionProjects/finalLinkedList/LinkedList.h
+
